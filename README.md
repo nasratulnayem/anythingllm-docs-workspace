@@ -64,8 +64,8 @@ Original project and documentation belong to Mintplex Labs and the AnythingLLM c
 ## Run locally
 
 ```bash
-git clone https://github.com/nasratulnayem/anythingllm-docs.git
-cd anythingllm-docs
+git clone https://github.com/nasratulnayem/anythingllm-docs-workspace.git
+cd anythingllm-docs-workspace
 yarn
 yarn dev
 ```
