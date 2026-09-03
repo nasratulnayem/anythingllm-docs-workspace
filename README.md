@@ -90,7 +90,7 @@ Use the local development server to review documentation changes, then contribut
 
 ## About the developer
 
-Built by **Nasratul Nayem**, a WordPress, WooCommerce, and automation developer based in Dhaka, Bangladesh.
+This documentation workspace is maintained by [**Nasratul Nayem**](https://github.com/nasratulnayem). The underlying AnythingLLM documentation remains credited to Mintplex Labs and its original contributors.
 
 I build practical systems that remove repetitive work: WordPress plugins, WooCommerce integrations, browser extensions, Python automation, AI-assisted content pipelines, and internal business tools.
 
