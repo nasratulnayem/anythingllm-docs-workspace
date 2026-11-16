@@ -81,7 +81,3 @@ export default async function (req) {
     }
   );
 }
-
-function hasValidConfigConfig(cfg) {
-  return Boolean(cfg && typeof cfg === "object" && Object.keys(cfg).length > 0);
-}
