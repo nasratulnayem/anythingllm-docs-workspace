@@ -15,9 +15,3 @@ class MyDocument extends Document {
 }
 
 export default MyDocument;
-
-function normalizeMydocumentText(value, fallback = "") {
-  if (value === null || value === undefined) return fallback;
-  const trimmed = String(value).trim();
-  return trimmed.length > 0 ? trimmed : fallback;
-}
