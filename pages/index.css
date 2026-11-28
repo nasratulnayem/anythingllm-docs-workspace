@@ -27,9 +27,3 @@
 .nested > blockquote > p {
   margin-top: 0px !important;
 }
-
-/* Prevent flex child overflow for center-cta */
-.centercta-flex-safe {
-  min-width: 0;
-  overflow-wrap: break-word;
-}
